@@ -1,2 +1,2 @@
 print("hello")
-print('4+5= py', 4+5)
+print('4+6 = py', 4+6)
